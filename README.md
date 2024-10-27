@@ -8,7 +8,7 @@ This repository serves as the collaborative project for our team for team assign
 |---------------|------------|-------------------------------------------------|
 | Jaeseong Choe | 21900759   |  [sorrychoe](https://github.com/sorrychoe)      |
 | Jiho Kang     | 22200022   |  [hahahohoJIHO](https://github.com/hahahohoJIHO)|
-|               |            |  [username](https://github.com/)      |
+| Harin Park    | 22200333   |  [harinn998](https://github.com/harinn998)     |
 |               |            |  [username](https://github.com/)      |
 
 ## Getting Started
