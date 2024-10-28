@@ -4,12 +4,12 @@ This repository serves as the collaborative project for our team for team assign
 
 ## Member Table
 
-| Name          | Student ID | GitHub URL                                      |
-|---------------|------------|-------------------------------------------------|
-| Jaeseong Choe | 21900759   |  [sorrychoe](https://github.com/sorrychoe)      |
-| Jiho Kang     | 22200022   |  [hahahohoJIHO](https://github.com/hahahohoJIHO)|
-| Harin Park    | 22200333   |  [harinn998](https://github.com/harinn998)      |
-|               |            |  [username](https://github.com/)      |
+| Name           | Student ID | GitHub URL                                         |
+|----------------|------------|----------------------------------------------------|
+| Jaeseong Choe  | 21900759   |  [sorrychoe](https://github.com/sorrychoe)         |
+| Jiho Kang      | 22200022   |  [hahahohoJIHO](https://github.com/hahahohoJIHO)   |
+| Harin Park     | 22200333   |  [harinn998](https://github.com/harinn998)         |
+| Hyeonsoo Seong | 21800379   |  [HyeonsooSeong](https://github.com/HyeonsooSeong/)|
 
 ## Getting Started
 
